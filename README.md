@@ -11,4 +11,4 @@ In de map Arduino kun je de code vinden hoe de 5 LED's aan/uit worden gezet door
 
 In de map Android staat de code van de app waar het beeld veranderd op basis van de waarde die de app binnenkrijgt via Bluetooth (van de potentiometer).
 
-### Meer over het project is te vinden op mijn portfolio site voor de HKU: studenthome.hku.nl/~luuk.siewers
+### Meer over het project is te vinden op mijn portfolio site voor de HKU: studenthome.hku.nl/~luuk.siewers (zie portfolio, IFTTT)
